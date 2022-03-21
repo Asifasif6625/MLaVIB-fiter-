@@ -1,6 +1,6 @@
 Base Repo Of Eva Maria , Bot Which are Not Public bots  .
 
-From Team @MLaVIB Telegram
+From Team <a href="https://t.me/mlavib"><img alt="Telegram" src="https://img.shields.io/badge/MLaVIB-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 
 ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs
 
