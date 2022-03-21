@@ -49,3 +49,7 @@ Commands
 • /broadcast - to broadcast a message to all DK BOTx users
 • /batch - to create link for multiple posts
 • /link - to create link for one post
+
+## Support   
+Join Our [Telegram channel](https://www.telegram.dog/MLAVIB) For Support/Assistance And Our [contact bot](https://www.telegram.dog/Missmiya_bot) For Updates.   
+   
