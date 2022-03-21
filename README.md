@@ -1,6 +1,6 @@
 Base Repo Of Eva Maria , Bot Which are Not Public bots  .
 
-From Team @DK_BOTx Telegram
+From Team @MLaVIB Telegram
 
 ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs
 
@@ -10,8 +10,8 @@ From Team @DK_BOTx Telegram
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/DKBOTx/private-bot
-cd  private-bot
+git clone https://github.com/Asifasif6625/MLaVIB-fiter-
+cd MLaVIB filter 
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
