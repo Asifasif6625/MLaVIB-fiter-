@@ -8,5 +8,5 @@ else
 fi
 cd /private-bot
 pip3 install -U -r requirements.txt
-echo "sᴛᴀʀᴛɪɴɢ 𝗗𝗞 𝗕𝗢𝗧𝘅........"
+echo "sᴛᴀʀᴛɪɴɢ MLaVIB bot......"
 python3 bot.py
